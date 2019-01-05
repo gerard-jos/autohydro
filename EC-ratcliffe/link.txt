@@ -1,1 +1,3 @@
 https://hackaday.io/project/7008-fly-wars-a-hackers-solution-to-world-hunger/log/25459-update-code-for-three-dollar-ec-ppm-meter-for-mcu-arduino
+
+https://hackaday.io/project/7008-fly-wars-a-hackers-solution-to-world-hunger/log/24646-three-dollar-ec-ppm-meter-arduino
